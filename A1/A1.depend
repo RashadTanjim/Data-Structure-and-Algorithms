@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1510202602 source:e:\01. picture\c\a1\arraystack.cpp
+	"ArrayStack.h"
+
+1510248627 e:\01. picture\c\a1\arraystack.h
+
+1510248492 source:e:\01. picture\c\a1\main.cpp
+	<iostream>
+	<stdio.h>
+	"ArrayStack.cpp"
+	<string.h>
+	<stdlib.h>
+
+1510202602 e:\01. picture\c\a1\arraystack.cpp
+	"ArrayStack.h"
+
+1510202602 source:c:\users\arnob\desktop\a1\arraystack.cpp
+	"ArrayStack.h"
+
+1510248627 c:\users\arnob\desktop\a1\arraystack.h
+
+1510248492 source:c:\users\arnob\desktop\a1\main.cpp
+	<iostream>
+	<stdio.h>
+	"ArrayStack.cpp"
+	<string.h>
+	<stdlib.h>
+
+1510202602 c:\users\arnob\desktop\a1\arraystack.cpp
+	"ArrayStack.h"
+
