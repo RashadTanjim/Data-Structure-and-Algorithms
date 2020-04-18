@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1512450609 source:c:\users\arnob\documents\codeblocks\graphtype\graphtype.cpp
+	"GraphType.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1512449343 c:\users\arnob\documents\codeblocks\graphtype\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1509856372 c:\users\arnob\documents\codeblocks\graphtype\stacktype.h
+
+1510460234 c:\users\arnob\documents\codeblocks\graphtype\quetype.h
+	<iostream>
+
+1512450781 source:c:\users\arnob\documents\codeblocks\graphtype\main.cpp
+	<iostream>
+	"GraphType.cpp"
+
+1512450609 c:\users\arnob\documents\codeblocks\graphtype\graphtype.cpp
+	"GraphType.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1511801632 c:\users\arnob\documents\codeblocks\graphtype\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1511802395 c:\users\arnob\documents\codeblocks\graphtype\quetype.cpp
+	"quetype.h"
+	<iostream>
+
