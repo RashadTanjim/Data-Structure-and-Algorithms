@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1511845569 source:c:\users\arnob\documents\codeblocks\binarysearchtree\main.cpp
+	"binarysearchtree.cpp"
+	<iostream>
+
+1511845963 c:\users\arnob\documents\codeblocks\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1511845569 c:\users\arnob\documents\codeblocks\binarysearchtree\binarysearchtree.h
+	"quetype.h"
+
+1511704896 c:\users\arnob\documents\codeblocks\binarysearchtree\quetype.h
+
+1511704962 c:\users\arnob\documents\codeblocks\binarysearchtree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
