@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1510320449 source:c:\users\arnob\documents\codeblocks\infixtopostfix\infixtopostfix.cpp
+	"InfixToPostfix.h"
+	<iostream>
+
+1510323674 c:\users\arnob\documents\codeblocks\infixtopostfix\infixtopostfix.h
+
+1510328341 source:c:\users\arnob\documents\codeblocks\infixtopostfix\main.cpp
+	"InfixToPostfix.cpp"
+	<iostream>
+	<stdio.h>
+	<string.h>
+
+1510320449 c:\users\arnob\documents\codeblocks\infixtopostfix\infixtopostfix.cpp
+	"InfixToPostfix.h"
+	<iostream>
+
