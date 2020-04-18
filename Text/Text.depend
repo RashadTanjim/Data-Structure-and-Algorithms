@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507318322 source:c:\users\arnob\documents\codeblocks\text\main.cpp
+	"dynamicarray.cpp"
+	<iostream>
+
+1507317408 c:\users\arnob\documents\codeblocks\text\dynamicarray.cpp
+	"dynamicarray.h"
+
+1507317389 c:\users\arnob\documents\codeblocks\text\dynamicarray.h
+

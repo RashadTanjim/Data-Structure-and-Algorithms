@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508000727 source:c:\users\arnob\documents\codeblocks\template class\maxmin.cpp
+	"MaxMin.h"
+
+1507999679 c:\users\arnob\documents\codeblocks\template class\maxmin.h
+
+1508000779 source:c:\users\arnob\documents\codeblocks\template class\main.cpp
+	"MaxMin.cpp"
+	<iostream>
+
+1508000727 c:\users\arnob\documents\codeblocks\template class\maxmin.cpp
+	"MaxMin.h"
+
