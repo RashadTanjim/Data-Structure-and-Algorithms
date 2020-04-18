@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1512881985 source:c:\users\arnob\documents\codeblocks\heaptype\heaptype.cpp
+	"HeapType.h"
+
+1512877457 c:\users\arnob\documents\codeblocks\heaptype\heaptype.h
+
+1512880989 source:c:\users\arnob\documents\codeblocks\heaptype\main.cpp
+	<iostream>
+	"pqtype.cpp"
+
+1512880803 c:\users\arnob\documents\codeblocks\heaptype\pqtype.cpp
+	"pqtype.h"
+	"HeapType.cpp"
+	"HeapType.h"
+	<iostream>
+
+1512880337 c:\users\arnob\documents\codeblocks\heaptype\pqtype.h
+	"HeapType.h"
+
+1512880803 source:c:\users\arnob\documents\codeblocks\heaptype\pqtype.cpp
+	"pqtype.h"
+	"HeapType.cpp"
+	"HeapType.h"
+	<iostream>
+
+1512881985 c:\users\arnob\documents\codeblocks\heaptype\heaptype.cpp
+	"HeapType.h"
+
