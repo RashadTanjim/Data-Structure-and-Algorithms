@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1513018924 source:c:\users\arnob\documents\codeblocks\huffman\huffman.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<iomanip>
+	<stdlib.h>
+	"Huffman.h"
+
+1513018895 c:\users\arnob\documents\codeblocks\huffman\huffman.h
+	<string>
+	<iostream>
+	<fstream>
+
+1513018954 source:c:\users\arnob\documents\codeblocks\huffman\main.cpp
+	<iostream>
+	<stdlib.h>
+	<fstream>
+	"Huffman.h"
+
