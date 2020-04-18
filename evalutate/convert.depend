@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510327849 source:c:\users\arnob\documents\codeblocks\convert\main.cpp
+	<iostream>
+	<cctype>
+	<stack>
+	<string>
+
+1510328537 source:c:\users\md. rashad tanjim\documents\codeblocks\evalutate\main.cpp
+	<iostream>
+	<cctype>
+	<stack>
+	<string>
+
