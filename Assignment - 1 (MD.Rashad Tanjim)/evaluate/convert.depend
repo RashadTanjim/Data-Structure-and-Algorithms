@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510327849 source:c:\users\arnob\documents\codeblocks\convert\main.cpp
+	<iostream>
+	<cctype>
+	<stack>
+	<string>
+
