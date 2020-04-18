@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1509251929 source:c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1509250525 c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.h
+
+1509252033 source:c:\users\arnob\documents\codeblocks\sortedtype\main.cpp
+	"SortedType.h"
+	"SortedType.cpp"
+	<iostream>
+	<cstddef>
+
+1509251929 c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1509252033 source:c:\users\arnob\documents\codeblocks\sortedtypelinked\main.cpp
+	"SortedType.h"
+	"SortedType.cpp"
+	<iostream>
+	<cstddef>
+
+1509250525 c:\users\arnob\documents\codeblocks\sortedtypelinked\sortedtype.h
+
+1509251929 c:\users\arnob\documents\codeblocks\sortedtypelinked\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1509251929 source:c:\users\arnob\documents\codeblocks\sortedtypelinked\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1509251929 source:c:\users\arnob-pc\documents\codeblocks\sortedtypelinked\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+
+1539456509 c:\users\arnob-pc\documents\codeblocks\sortedtypelinked\sortedtype.h
+
+1539457045 source:c:\users\arnob-pc\documents\codeblocks\sortedtypelinked\main.cpp
+	"SortedType.cpp"
+	<iostream>
+	<cstddef>
+
+1509251929 c:\users\arnob-pc\documents\codeblocks\sortedtypelinked\sortedtype.cpp
+	"SortedType.h"
+	<iostream>
+

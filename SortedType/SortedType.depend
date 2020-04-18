@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1513200219 source:c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.cpp
+	"sortedtype.h"
+
+1513200156 c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.h
+
+1513201745 source:c:\users\arnob\documents\codeblocks\sortedtype\main.cpp
+	"SortedType.h"
+	"SortedType.cpp"
+	<iostream>
+	<cstddef>
+
+1513200219 c:\users\arnob\documents\codeblocks\sortedtype\sortedtype.cpp
+	"sortedtype.h"
+
+1513200219 source:c:\users\arnob-pc\documents\codeblocks\sortedtype\sortedtype.cpp
+	"sortedtype.h"
+
+1513200156 c:\users\arnob-pc\documents\codeblocks\sortedtype\sortedtype.h
+
+1513539914 source:c:\users\arnob-pc\documents\codeblocks\sortedtype\main.cpp
+	<iostream>
+
