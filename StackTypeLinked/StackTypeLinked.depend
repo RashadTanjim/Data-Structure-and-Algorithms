@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1509858448 source:c:\users\arnob\documents\codeblocks\stacktypelinked\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1509856372 c:\users\arnob\documents\codeblocks\stacktypelinked\stacktype.h
+
+1509859211 source:c:\users\arnob\documents\codeblocks\stacktypelinked\main.cpp
+	"stacktype.cpp"
+	<iostream>
+
+1509858448 c:\users\arnob\documents\codeblocks\stacktypelinked\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
