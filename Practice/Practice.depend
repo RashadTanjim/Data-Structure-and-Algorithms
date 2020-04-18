@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1508795463 source:c:\users\arnob\documents\codeblocks\practice\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+	<cstddef>
+
+1508793894 c:\users\arnob\documents\codeblocks\practice\unsortedtype.h
+
+1508795527 source:c:\users\arnob\documents\codeblocks\practice\main.cpp
+	"unsortedtype.cpp"
+	<iostream>
+
+1508795581 c:\users\arnob\documents\codeblocks\practice\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+	<cstddef>
+
