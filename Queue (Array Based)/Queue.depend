@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510031041 source:d:\cse225.1lab\queue\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1510031578 d:\cse225.1lab\queue\quetype.cpp
+	"quetype.h"
+
+1510031165 d:\cse225.1lab\queue\quetype.h
+	<iostream>
+
+1510031042 source:c:\users\arnob\documents\codeblocks\queue (array based)\main.cpp
+	<iostream>
+	"quetype.cpp"
+
+1510031580 c:\users\arnob\documents\codeblocks\queue (array based)\quetype.cpp
+	"quetype.h"
+
+1510031166 c:\users\arnob\documents\codeblocks\queue (array based)\quetype.h
+	<iostream>
+
