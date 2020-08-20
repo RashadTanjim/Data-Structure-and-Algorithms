@@ -1,2 +1,3 @@
 # Data-Structure-and-Algorithms
- CSE225 Course Lab Tasks
+
+##### Data Strucure & Algorithm Practice Problem & Solves for CSE225 Course Lab Tasks!
