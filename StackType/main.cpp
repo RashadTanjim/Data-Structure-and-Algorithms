@@ -2,7 +2,7 @@
 #include <iostream>
 
 using namespace std;
-
+/**
 int sumOdd(StackType<int> s)
 {
     int sum = 0;
@@ -16,22 +16,26 @@ int sumOdd(StackType<int> s)
     }
     cout<<"Sum of odd number is: " << sum <<endl;
 };
-
+**/
 int main()
 {
     StackType<int>s;
     StackType<int>sbc;
-    if(s.IsEmpty())
-        cout<< "The Stack is Empty" <<endl;
-    else
-        cout<<" The Stack is Not Empty" <<endl;
-
-    cout << "Input 5 Values: "<<endl;
 
     int x;
-    for(int i = 0; i<MAX_ITEMS-1; i++)
+    for(int i = 0; i<2; i++) //creating array size of 2
     {
-        cin>>x;
+        cin>>x; // filling those with user input
+        s.Push(x);
+    }
+        for(int i = 0; i<3; i++) //creating array size of 3
+    {
+        cin>>x; // filling those with user input
+        s.Push(x);
+    }
+        for(int i = 0; i<4; i++) //creating array size of 4
+    {
+        cin>>x; // filling those with user input
         s.Push(x);
     }
 

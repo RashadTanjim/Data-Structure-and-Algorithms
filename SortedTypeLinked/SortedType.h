@@ -10,7 +10,6 @@ class SortedType
         nodeType *next;
     };
 
-
 public :
     SortedType();
     ~SortedType();
