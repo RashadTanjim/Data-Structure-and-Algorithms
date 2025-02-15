@@ -1,33 +1,27 @@
-# Data-Structure-and-Algorithms
+# Data Structures and Algorithms (DSA) – C++ Implementation  
 
-Hello Coders, 
-Learn Data Structure & Algorithms using C++ in an efficient way 
+This repository serves as a structured collection of **Data Structures & Algorithms (DSA)** implementations in C++, designed for efficient learning and practice. It covers fundamental and advanced topics, making it a valuable resource for students and professionals preparing for technical interviews and academic coursework.  
 
+## 📌 Topics Covered  
 
-### Topics covered on Data structure: 
-1. ArrayList (Sorted, Unsorted Type), 
-2. LinkList (Sorted, Unsorted Type), 
-3. Stack (Sorted, Unsorted Type) (Array-based and LinkList-based),
-4. Queue (Sorted, Unsorted Type) (Array-based and LinkList-based), 
-5. Binary Search Tree, 6. BFS, DFS, 7. Graph implementation, 
-8. Heap
-9. Recursion 
-10. Dynamic Programming 
+### **Data Structures**  
+- **Arrays** (Sorted, Unsorted)  
+- **Linked Lists** (Sorted, Unsorted)  
+- **Stacks** (Array-based & Linked List-based)  
+- **Queues** (Array-based & Linked List-based)  
+- **Binary Search Trees (BST)**  
+- **Graph Algorithms** (BFS, DFS)  
+- **Heap & Priority Queues**  
+- **Recursion & Dynamic Programming**  
 
+### **Algorithms**  
+- **0/1 Knapsack** (Recursion & Dynamic Programming)  
+- **Huffman Coding Compression Algorithm**  
 
-### Algorithms: 
-1. Knapsack using recursion 
-2. Knapsack using Dynamic Programming 
-3. Huffman Coding Compression Algorithm
+### **Examples & Applications**  
+- **Infix to Postfix Conversion**  
+- **Point Problem Analysis**  
 
+This repository is part of my **university coursework**, where I have implemented these concepts with efficiency in mind. Feel free to explore, ask questions, and contribute.  
 
-### Examples:
-1. Infix to Postfix
-2. Point Problem
-
-
-This is my university course practice repository. I have tried my best to implement these topics efficiently. Feel free to ask me anything. 
-Start learning and Keep Practicing DSA. 😉
-
-#### GitHub: https://github.com/RashadTanjim/Data-Structure-and-Algorithms
-
+🔗 **GitHub Repository:** [Data Structures & Algorithms – C++](https://github.com/RashadTanjim/Data-Structure-and-Algorithms)  
